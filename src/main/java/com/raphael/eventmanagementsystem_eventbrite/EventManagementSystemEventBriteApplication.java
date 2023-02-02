@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class EventManagementSystemEventBriteApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(EventManagementSystemEventBriteApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(EventManagementSystemEventBriteApplication.class, args);
+    }
 
 }

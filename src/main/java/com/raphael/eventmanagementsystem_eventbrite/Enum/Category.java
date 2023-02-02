@@ -1,2 +1,4 @@
-package com.raphael.eventmanagementsystem_eventbrite.Enum;public class Category {
+package com.raphael.eventmanagementsystem_eventbrite.Enum;
+
+public enum Category {
 }

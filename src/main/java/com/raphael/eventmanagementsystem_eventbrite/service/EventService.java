@@ -1,2 +1,4 @@
-package com.raphael.eventmanagementsystem_eventbrite.service;public interface EventService {
+package com.raphael.eventmanagementsystem_eventbrite.service;
+
+public interface EventService {
 }
